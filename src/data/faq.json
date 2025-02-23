@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What is the purpose of this ride-sharing app?",
+    "answer": "Our ride-sharing app connects drivers and passengers to share rides, making transportation more affordable, efficient, and eco-friendly."
+  },
+  {
+    "question": "How do I book a ride?",
+    "answer": "To book a ride, open the app, enter your pickup and drop-off locations, select your preferred ride type, and confirm your booking."
+  },
+  {
+    "question": "How can I become a driver?",
+    "answer": "To become a driver, sign up in the app, upload the required documents (license, vehicle registration, etc.), and complete the verification process."
+  },
+  {
+    "question": "How is the fare calculated?",
+    "answer": "The fare is calculated based on the distance, time, and type of ride you choose. Additional charges may apply for tolls or peak hours."
+  },
+  {
+    "question": "Can I schedule a ride in advance?",
+    "answer": "Yes, you can schedule a ride by selecting the 'Schedule a Ride' option and choosing your preferred date and time."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit cards, debit cards, digital wallets, and cash (if enabled in your region)."
+  },
+  {
+    "question": "How do I cancel a ride?",
+    "answer": "To cancel a ride, go to your 'Upcoming Rides,' select the ride you wish to cancel, and tap the 'Cancel' button. Cancellation fees may apply."
+  },
+  {
+    "question": "What should I do if I leave an item in the car?",
+    "answer": "If you leave an item in the car, use the 'Contact Driver' option in your ride history to reach out to the driver."
+  },
+  {
+    "question": "Is there a customer support team I can contact?",
+    "answer": "Yes, you can contact our support team via the 'Help' section in the app or by emailing support@rideshareapp.com."
+  },
+  {
+    "question": "Are rides safe for passengers and drivers?",
+    "answer": "Yes, safety is our priority. All drivers go through background checks, and rides are tracked in real-time for added security."
+  }
+]
+
